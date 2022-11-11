@@ -1,0 +1,4 @@
+Napa||||||450|bkash
+Napa|Zimax|Antacide|100|150|100|450|cash
+Napa|Zimax|Toffen|100|80|100|280|bkash
+Omidon|Napa|Seclo|25|50|50|125|bkash

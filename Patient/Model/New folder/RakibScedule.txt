@@ -1,0 +1,6 @@
+saturday|8.30am|2022-06-02
+saturday|9.30|2022-07-04
+Monday|8.15-8.30am|2022-06-06
+saturday|10.00am|2022-07-23
+Tuesday|12.00pm|2022-07-19
+Tuesday|12.30pm|2022-07-05
